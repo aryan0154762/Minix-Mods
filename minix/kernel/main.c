@@ -343,6 +343,7 @@ static void announce(void)
       "Copyright 2016, Vrije Universiteit, Amsterdam, The Netherlands\n",
       OS_RELEASE);
   printf("MINIX is open source software, see http://www.minix3.org\n");
+  printf("Minor Modification by Aryan Singh - aryan_2k19se019@dtu.ac.in\n");
 }
 
 /*===========================================================================*
